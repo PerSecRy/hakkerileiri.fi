@@ -126,7 +126,9 @@
     padding: 2rem;
     border-radius: 8px;
     margin: 2rem auto;
-    align-items: center;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 body .content-box {
     background: rgba(0, 0, 0, 0.85) !important;
